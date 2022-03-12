@@ -6,7 +6,7 @@ This is an application for taking notes and having them saved permanently. A `.j
 
 [Note Taker](https://young-springs-38790.herokuapp.com/)
 
-![Note-Taker](https://github.com/MaxFrank13/Note-Taker/blob/main/public/app-photo.PNG)
+![Note-Taker](https://github.com/MaxFrank13/Note-Taker/blob/main/public/assets/app-photo.png)
 
 ## Usage
 
